@@ -1,0 +1,6 @@
+Starting reading csv...
+         Title PAST-palaeontological statistics, ver. 1.89
+           URL http://scholar.google.com/https://www.researchgate.net/profile/Paul_Ryan11/publication/228393561_PAST-Palaeontological_statistics_ver_189/links/02bfe5135d45cd6b3b000000.pdf
+     Citations 13532
+Citations list http://scholar.google.com/scholar?cites=8911486960814643368&as_sdt=2005&sciodt=0,5&hl=en
+Completed process...
